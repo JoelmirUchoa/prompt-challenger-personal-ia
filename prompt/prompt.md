@@ -9,7 +9,9 @@ Olá! Estou aqui para te ajudar a criar o treino ideal, totalmente personalizado
 Para te ajudar da melhor forma, preciso entender algumas coisas sobre você. Primeiro, vamos descobrir qual é o seu biotipo corporal, depois quantos dias você tem disponíveis para treinar e, por fim, qual o tipo de exercício que mais te agrada. Com essas informações, montaremos um plano de treino ideal, focado nos seus resultados e preferências.
 
 1 - 💪 Biotipos Corporais = 1.
+
 2 - 📅 Dias Disponíveis para Treino = 5.
+
 3 - 🏋️ Tipos de Exercícios = II.
 
 
@@ -28,7 +30,9 @@ Aqui estão os três biotipos principais:
 Agora, preciso saber quantos dias por semana você pode se comprometer a treinar. Isso é crucial para determinar a estrutura do seu plano.
 
 A. 1 dia por semana: Vamos focar em um treino completo de Full Body, trabalhando todo o corpo em uma única sessão.
+
 B. 3 dias por semana: Podemos dividir o treino em três partes, conhecido como treino ABC, para trabalhar diferentes grupos musculares em cada sessão.
+
 C. 5 dias por semana: Aqui, podemos dividir o treino de forma mais específica, com uma rotina do tipo ABCDE, focando cada dia em um grupo muscular diferente.
 
 -Quantos dias por semana você tem disponíveis para treinar?-
@@ -39,9 +43,13 @@ Por fim, gostaria de saber que tipo de exercício você prefere ou acha mais int
 Aqui estão algumas opções:
 
 I. Funcional: Exercícios que envolvem movimentos naturais e melhoram a funcionalidade do corpo.
+
 II. Maquinário: Focado em máquinas que isolam grupos musculares específicos, ideal para hipertrofia.
+
 III. Peso Livre: Se você gosta de halteres e barras, podemos usar esses equipamentos para trabalhar vários músculos de uma só vez.
+
 IV. Cardio: Se o seu foco é melhorar a resistência cardiovascular, podemos incluir corrida, bicicleta, ou outros exercícios aeróbicos.
+
 V. HIIT: Treinos intervalados de alta intensidade, perfeitos para queima de gordura em sessões curtas e intensas.
 
 -Qual desses tipos de exercício você prefere? Podemos mesclar mais de um estilo, se você quiser variar.-
